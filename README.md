@@ -13,24 +13,28 @@
 
   </div>
 
-<a href="https://github.com/sudip5903/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sudip5903&style=for-the-badge">
-</a>
+<div>
 <h1><code>$ Social;</code></h1>
+  </div>
+  
  <div align="center">
  <a href="https://linkedin.com/in/sudip-dgn-03/" target="_blank">
    <img align="center" alt="Sudip Dhungana | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a> 
  <a href="https://twitter.com/Su__Dip" target="_blank">
    <img align="center" alt="Sudip Dhungana | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+   <a href=" https://www.facebook.com/sudip.dhungana.104/" target="_blank">
+   <img align="center" alt="Sudip Dhungana | Facebook " width="40px" src="https://www.svgrepo.com/show/111203/facebook.svg"</a> 
    </div>
   
  ### About Me
-
- - 📊 Previous Cyber security intern at <a href= "https://virtuallytesting.com/" target="_blank">Virtually Testing Foundation</a>
-- ⚡️ Dev at <a href="https://www.blueacornici.com/" target="_blank">Blue Acorn iCi</a>.
-- 👨‍💻 Enjoy collaborating on `open source` projects.
-- ✈️ Fun Fact: Love travelling.
+  - 📊 Previous Cyber security intern at <a href= "https://virtuallytesting.com/" target="_blank">Virtually Testing Foundation</a>
+  - 👨‍💻 Enjoy collaborating on `open source` projects.
+  - ✈️ Fun Fact: Love travelling.
+  <div align="center">
+<a href="https://github.com/sudip5903/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sudip5903&style=for-the-badge">
+</a>
    
-   
+  </div>
 
