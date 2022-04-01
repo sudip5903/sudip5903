@@ -15,4 +15,4 @@
 <a href="https://github.com/sudip5903/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sudip5903&style=for-the-badge">
 </a>
-![](https://hit.yhype.me/github/profile?user_id=86773271)
+
