@@ -1,5 +1,5 @@
 <h1><code>$ who\am\i;</code></h1>
-<h3>Captain Nick Lucifer* (स्वमी निखिलेस्वोर) &lt;@naryal2580&gt; Nikhil Aryal, Narey Bhai, Glitchy Bramha, nick</h3>
+<h3> phoenix* (सुदिप) &lt;@sudip5903&gt; Sudip Dhungana, Sudey, 苏迪普</h3>
 <div align="center" id="whoami">
                   😃
   <hr width="10%">
