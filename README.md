@@ -16,4 +16,9 @@
 <a href="https://github.com/sudip5903/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sudip5903&style=for-the-badge">
 </a>
+<h1>Social:</h1>
+
+<div align="center">
+ <a href="https://linkedin.com/in/sudip-dgn-03/" target="_blank">
+   <img align="center" alt="Sudip Dhungana | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
 
