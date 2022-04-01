@@ -24,7 +24,7 @@
    <img align="center" alt="Sudip Dhungana | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
  <a href=" https://www.facebook.com/sudip.dhungana.104/" target="_blank">
-   <img align="center" alt="Sudip Dhungana | Facebook " width="40px" src="https://www.svgrepo.com/show/111203/facebook.svg"
+   <img align="center" alt="Sudip Dhungana | Facebook " width="40px" src="https://www.svgrepo.com/show/111203/facebook.svg" />
         </a> 
    </div>
   
