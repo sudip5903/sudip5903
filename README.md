@@ -10,5 +10,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&logo=git">
 
+  In case you would simply like a public badge to count your visitors, try [GitHub Profile Views Counter].
+
+<a href="https://github.com/sudip5903/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sudip5903&style=for-the-badge">
+</a>
+  [Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/sudip5903/github-profile-views-counter
+
   
   ![](https://hit.yhype.me/github/profile?user_id=86773271)
