@@ -20,5 +20,10 @@
 
 <div align="center">
  <a href="https://linkedin.com/in/sudip-dgn-03/" target="_blank">
-   <img align="center" alt="Sudip Dhungana | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
+   <img align="center" alt="Sudip Dhungana | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a> 
+ <a href="https://twitter.com/Su__Dip" target="_blank">
+   <img align="center" alt="Sudip Dhungana | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+   
+   
 
