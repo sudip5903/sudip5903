@@ -1,9 +1,7 @@
 <h1><code>$ who\am\i;</code></h1>
-
 <h3>This Is Sudip5903(Sudip Dhungana) &lt;@sudip5903&gt; </h3>
 <div align="center" id="whoami">
-  
-   😃
+                  😃
   <hr width="10%">
   <h1 id="skills">Skills</h1>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logoColor=white&logo=html5">
