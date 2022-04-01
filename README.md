@@ -23,15 +23,16 @@
  <a href="https://twitter.com/Su__Dip" target="_blank">
    <img align="center" alt="Sudip Dhungana | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-   <a href=" https://www.facebook.com/sudip.dhungana.104/" target="_blank">
-   <img align="center" alt="Sudip Dhungana | Facebook " width="40px" src="https://www.svgrepo.com/show/111203/facebook.svg"</a> 
+ <a href=" https://www.facebook.com/sudip.dhungana.104/" target="_blank">
+   <img align="center" alt="Sudip Dhungana | Facebook " width="40px" src="https://www.svgrepo.com/show/111203/facebook.svg"
+        </a> 
    </div>
   
  ### About Me
   - 📊 Previous Cyber security intern at <a href= "https://virtuallytesting.com/" target="_blank">Virtually Testing Foundation</a>
   - 👨‍💻 Enjoy collaborating on `open source` projects.
   - ✈️ Fun Fact: Love travelling.
-  <div align="center">
+  <div align="left">
 <a href="https://github.com/sudip5903/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sudip5903&style=for-the-badge">
 </a>
