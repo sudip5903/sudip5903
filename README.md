@@ -57,16 +57,3 @@
   - 👨‍💻 Enjoy collaborating on `open source` projects.
   - ✈️ Fun Fact: Love travelling.
  
- ## 📊 GitHub Stats:
-![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudip5903&theme=dark&show_icons=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudip5903&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip5903&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
- <div align="right">
-<a href="https://github.com/sudip5903/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sudip5903&style=for-the-badge">
-</a>
-
-   
-  </div>
