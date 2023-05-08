@@ -21,7 +21,7 @@
 <h3 align="center">Computer Science and IT enthusiast/learner/student..</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
  
- <br>
+</br>
 <!-- <div>
 <h1><code>$ Social;</code></h1>
   </div> -->
