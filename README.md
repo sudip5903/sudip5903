@@ -1,4 +1,4 @@
-<h1><code>$ who\am\i;</code></h1>
+<!-- <h1><code>$ who\am\i;</code></h1>
 <h3> Sudip Dhungana, (सुदिप), phoenix*  &lt;@sudip5903&gt; </h3>
 
   <div align="center" id="whoami">
@@ -15,7 +15,18 @@
    
 
   </div>
+ -->
+ 
+ <h1 align="center">Hi 👋, I'm Sudip Dhungana</h1>
+<h3 align="center">Computer Science and IT enthusiast/learner/student..</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip5903&label=Profile%20views&color=0e75b6&style=flat" alt="Sudip Dhungana" /> </p>
+
+
+<img align="right" alt="Coding" width="400" src="https://tenor.com/bqrUA.gif">
+ 
+ 
 <!-- <div>
 <h1><code>$ Social;</code></h1>
   </div> -->
