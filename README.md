@@ -1,5 +1,5 @@
 <h1><code>$ who\am\i;</code></h1>
-<h3> Sudip Dhungana, phoenix* (सुदिप) &lt;@sudip5903&gt; </h3>
+<h3> Sudip Dhungana, (सुदिप), phoenix*  &lt;@sudip5903&gt; </h3>
 
   <div align="center" id="whoami">
                   😃
