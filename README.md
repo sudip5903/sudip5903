@@ -35,7 +35,7 @@
 <a href="https://twitter.com/someaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="someaim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sudip-dgn-03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sudip Dhungana" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sudip.dhungana.104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sudip Dhungana" height="30" width="40" /></a>
-<a href="https://twitter.com/Su__Dip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sudip Dhungana" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sudip_dgn03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sudip Dhungana" height="30" width="40" /></a>
 <!-- <a href="https://medium.com/@someaim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@someaim1" height="30" width="40" /></a> -->
 </p>
 
