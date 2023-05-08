@@ -21,9 +21,6 @@
 <h3 align="center">Computer Science and IT enthusiast/learner/student..</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip5903&label=Profile%20views&color=0e75b6&style=flat" alt="Sudip Dhungana" /> </p>
-
-
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
  
  
@@ -52,17 +49,15 @@
 
    </div>
   
- ### About Me
+ # About Me
   - 📊 Previous Cyber security intern at <a href= "https://virtuallytesting.com/" target="_blank">Virtually Testing Foundation</a>
   - 👨‍💻 Enjoy collaborating on `open source` projects.
   - ✈️ Fun Fact: Love travelling.
  
-<div align="left">
-  # 📊 GitHub Stats:
+ # 📊 GitHub Stats:
 ![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudip5903&theme=dark&show_icons=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudip5903&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip5903&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
 
 
  <div align="right">
