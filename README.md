@@ -24,7 +24,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip5903&label=Profile%20views&color=0e75b6&style=flat" alt="Sudip Dhungana" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/bqrUA.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/bqrUA.gif">
  
  
 <!-- <div>
