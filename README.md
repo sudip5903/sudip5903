@@ -29,16 +29,13 @@
 <!--  <div align="center">
  <a href="https://linkedin.com/in/sudip-dgn-03/" target="_blank">
    <img align="center" alt="Sudip Dhungana | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a> 
- <a href="https://twitter.com/Su__Dip" target="_blank">
-   <img align="center" alt="Sudip Dhungana | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+ 
  <a href="https://www.facebook.com/sudip.dhungana.104/" target="_blank">
    <img align="center" alt="Sudip Dhungana | Facebook " width="40px" src="https://www.svgrepo.com/show/111203/facebook.svg" />
         </a>  -->
    
    <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/someaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="someaim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sudip-dgn-03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sudip Dhungana" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sudip.dhungana.104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sudip Dhungana" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sudip_dgn03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sudip Dhungana" height="30" width="40" /></a>
